@@ -1,22 +1,14 @@
 {
   "mappings": [
-    "/content/carvelo/language-masters/en:/",
-    "/content/carvelo/language-masters/en/:/en/",
-    "/content/carvelo/language-masters/fr/:/fr/",
-    "/content/carvelo/language-masters/fr:/fr",
-    "/content/carvelo/language-masters/es/:/es/",
-    "/content/carvelo/language-masters/es:/es",
-    "/content/carvelo/language-masters/ja/:/ja/",
-    "/content/carvelo/language-masters/ja:/ja",
-    "/content/carvelo/language-masters/de/:/de/",
-    "/content/carvelo/language-masters/de:/de",
-    "/content/carvelo/configuration:/.helix/config.json",
-    "/content/carvelo/metadata:/metadata.json",
-    "/content/carvelo/redirects:/redirects.json",
-    "/content/carvelo/placeholders:/placeholders.json"
+    "/content/matttayl/securfinanci-20260812-083506/language-masters/en:/",
+    "/content/matttayl/securfinanci-20260812-083506/language-masters/en/:/en/",
+    "/content/matttayl/securfinanci-20260812-083506/configuration:/.helix/config.json",
+    "/content/matttayl/securfinanci-20260812-083506/metadata:/metadata.json",
+    "/content/matttayl/securfinanci-20260812-083506/redirects:/redirects.json",
+    "/content/matttayl/securfinanci-20260812-083506/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/carvelo/",
-    "/content/dam/carvelo/"
+    "/content/matttayl/securfinanci-20260812-083506/",
+    "/content/dam/matttayl/securfinanci-20260812-083506/"
   ]
 }
